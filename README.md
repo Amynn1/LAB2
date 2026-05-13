@@ -17,7 +17,8 @@ adb root
 adb remount
 🔗 Capture 1 — ADB root
 
-https://images.openai.com/static-rsc-4/28LcNG76rjiRWpjEeOVEnGG6EvDsaaGRyMLlGu0vpcBNuZtWujgpafoF6Q5jGkNCNVBQ1PL9OEkNXoZkAfGD0VljDCD5MDZdEOvNiLgWSJ0v0IR1cA-Qr7FuN0Er80DviCrchxXcDNk7FqwsKYWl55qxb0nxu_DKigebUcF5OwfG1FOU-qoPCmBqRiT-SFs1?purpose=fullsize
+<img width="538" height="289" alt="1" src="https://github.com/user-attachments/assets/e2738a41-9d38-4441-8528-7e710c02c643" />
+
 
 📌 Résultat attendu :
 
@@ -31,7 +32,8 @@ Risque : accès total système
 5. 🔁 Étape 3 : Démarrer un AVD propre
 🔗 Capture 2 — AVD Manager
 
-https://images.openai.com/static-rsc-4/6K-Pt2A0lmjCE-jPiYhteAs8jIysEd5pkzKpR6Xg9Fycnz78Lms7WPcfZa0QkW6csqeajN1LFkR6qtFla3YSq71yzEXeyac_HUxyH_fMYBR59WcCXLJRXTugl7FJD5JdVJ5esFedk7FEJSxks3Gq0zC6J6lifagAedSjUHnb0Rtgh5jqzpGS76uqaeeRtaeE?purpose=fullsize
+<img width="336" height="370" alt="2" src="https://github.com/user-attachments/assets/ea07763f-89b4-4263-8ddc-ef904bdac2ea" />
+
 
 📌 Résultat :
 
@@ -41,7 +43,8 @@ Commande :
 adb install app.apk
 🔗 Capture 3 — Installation APK
 
-https://images.openai.com/static-rsc-4/M9arjk5QzgYo9mkKExjNItpdPVsfrZEX4OMkx6CgWw4lamkzBY9sFklYTusWD1vBw16Uy9U9kLjIDdsU5I-vCmy33720qGeAkOLbX47uEdmB-Ap32AqXzPTOL6OWSn0uOIYMlZwvFYR8wIachhgITuGtIMnbAtqf5hHX9458ootkVy9wIKVGZEqrHIABZowo?purpose=fullsize
+<img width="593" height="315" alt="3" src="https://github.com/user-attachments/assets/c00cb6b7-0348-4142-8969-855ae5c07fcf" />
+
 
 7. 🧠 Étape 5 : Définir 3 scénarios simples
 Application détecte le root → bloque accès
